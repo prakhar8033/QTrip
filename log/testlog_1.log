@@ -1,0 +1,59 @@
+2023-12-20 10:01:36,392 [main] INFO qtrip_qa.DriverSingleton - ----------Starting the execution------------
+2023-12-20 10:01:36,424 [main] INFO qtrip_qa.DriverSingleton - Initializing the driver
+2023-12-20 10:01:38,498 [main] INFO qtrip_qa.DriverSingleton - Driver initialized : RemoteWebDriver: chrome on Windows 11 (8a448884b1bb8681a24e944b7a5d8b1c)
+2023-12-20 10:01:38,648 [main] INFO qtrip_qa.DriverSingleton - Creating an instance of driver
+2023-12-20 10:01:40,054 [main] INFO qtrip_qa.tests.test_case01 - Started the execution of TestCase01
+2023-12-20 10:01:55,124 [main] INFO qtrip_qa.tests.test_case01 - Completed the registration: true
+2023-12-20 10:01:56,838 [main] INFO qtrip_qa.tests.test_case01 - Completed the login: true
+2023-12-20 10:01:59,059 [main] INFO qtrip_qa.tests.test_case01 - Logging out the user
+2023-12-20 10:02:00,203 [main] INFO qtrip_qa.tests.test_case01 - Ended the execution of TestCase01
+2023-12-20 10:02:00,211 [main] INFO qtrip_qa.tests.test_case01 - Started the execution of TestCase01
+2023-12-20 10:02:06,734 [main] INFO qtrip_qa.tests.test_case01 - Completed the registration: true
+2023-12-20 10:02:11,931 [main] INFO qtrip_qa.tests.test_case01 - Completed the login: true
+2023-12-20 10:02:14,183 [main] INFO qtrip_qa.tests.test_case01 - Logging out the user
+2023-12-20 10:02:15,111 [main] INFO qtrip_qa.tests.test_case01 - Ended the execution of TestCase01
+2023-12-20 10:02:15,114 [main] INFO qtrip_qa.tests.test_case01 - Started the execution of TestCase01
+2023-12-20 10:02:21,884 [main] INFO qtrip_qa.tests.test_case01 - Completed the registration: true
+2023-12-20 10:02:23,579 [main] INFO qtrip_qa.tests.test_case01 - Completed the login: true
+2023-12-20 10:02:25,816 [main] INFO qtrip_qa.tests.test_case01 - Logging out the user
+2023-12-20 10:02:26,781 [main] INFO qtrip_qa.tests.test_case01 - Ended the execution of TestCase01
+2023-12-20 10:02:26,898 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase02
+2023-12-20 10:02:31,094 [main] INFO qtrip_qa.tests.test_case02 - City search for 'nowhere' is success
+2023-12-20 10:02:37,493 [main] INFO qtrip_qa.tests.test_case02 - City search for 'Bengaluru' is success
+2023-12-20 10:02:41,121 [main] INFO qtrip_qa.tests.test_case02 - Filters are working fine
+2023-12-20 10:02:41,459 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase02
+2023-12-20 10:02:41,462 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase02
+2023-12-20 10:02:46,418 [main] INFO qtrip_qa.tests.test_case02 - City search for 'nowhere' is success
+2023-12-20 10:02:53,081 [main] INFO qtrip_qa.tests.test_case02 - City search for 'Singapore' is success
+2023-12-20 10:02:56,667 [main] INFO qtrip_qa.tests.test_case02 - Filters are working fine
+2023-12-20 10:02:57,002 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase02
+2023-12-20 10:02:57,006 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase02
+2023-12-20 10:03:01,555 [main] INFO qtrip_qa.tests.test_case02 - City search for 'nowhere' is success
+2023-12-20 10:03:08,242 [main] INFO qtrip_qa.tests.test_case02 - City search for 'Goa' is success
+2023-12-20 10:03:11,799 [main] INFO qtrip_qa.tests.test_case02 - Filters are working fine
+2023-12-20 10:03:12,150 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase02
+2023-12-20 10:03:12,221 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase03
+2023-12-20 10:03:19,360 [main] INFO qtrip_qa.tests.test_case02 - Completed the registration: true
+2023-12-20 10:03:23,763 [main] INFO qtrip_qa.tests.test_case02 - Completed the login: true
+2023-12-20 10:03:47,709 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase03
+2023-12-20 10:03:47,711 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase03
+2023-12-20 10:03:54,931 [main] INFO qtrip_qa.tests.test_case02 - Completed the registration: true
+2023-12-20 10:03:59,937 [main] INFO qtrip_qa.tests.test_case02 - Completed the login: true
+2023-12-20 10:04:24,143 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase03
+2023-12-20 10:04:24,146 [main] INFO qtrip_qa.tests.test_case02 - Started the execution of TestCase03
+2023-12-20 10:04:31,721 [main] INFO qtrip_qa.tests.test_case02 - Completed the registration: true
+2023-12-20 10:04:36,054 [main] INFO qtrip_qa.tests.test_case02 - Completed the login: true
+2023-12-20 10:04:59,743 [main] INFO qtrip_qa.tests.test_case02 - Ended the execution of TestCase03
+2023-12-20 10:05:00,083 [main] INFO qtrip_qa.tests.test_case04 - Started the execution of TestCase04
+2023-12-20 10:05:04,345 [main] INFO qtrip_qa.tests.test_case04 - Completed the registration: true
+2023-12-20 10:05:08,643 [main] INFO qtrip_qa.tests.test_case04 - Completed the login: true
+2023-12-20 10:06:13,516 [main] INFO qtrip_qa.tests.test_case04 - Ended the execution of TestCase04
+2023-12-20 10:06:13,518 [main] INFO qtrip_qa.tests.test_case04 - Started the execution of TestCase04
+2023-12-20 10:06:17,957 [main] INFO qtrip_qa.tests.test_case04 - Completed the registration: true
+2023-12-20 10:06:22,170 [main] INFO qtrip_qa.tests.test_case04 - Completed the login: true
+2023-12-20 10:07:27,785 [main] INFO qtrip_qa.tests.test_case04 - Ended the execution of TestCase04
+2023-12-20 10:07:27,786 [main] INFO qtrip_qa.tests.test_case04 - Started the execution of TestCase04
+2023-12-20 10:07:32,111 [main] INFO qtrip_qa.tests.test_case04 - Completed the registration: true
+2023-12-20 10:07:36,432 [main] INFO qtrip_qa.tests.test_case04 - Completed the login: true
+2023-12-20 10:08:40,816 [main] INFO qtrip_qa.tests.test_case04 - Ended the execution of TestCase04
+2023-12-20 10:08:41,344 [main] INFO qtrip_qa.DriverSingleton - ----------Closing the execution-------------
